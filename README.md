@@ -1,5 +1,3 @@
-# SICREDI-PROJETO-ACADEMICO
-
 # SICREDI 2025 - Sistema de Gestão Centralizada
 
 ## Visão Geral
